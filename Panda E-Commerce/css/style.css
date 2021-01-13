@@ -1,0 +1,15 @@
+.custom_carouser{
+    background-color: #feeae9;
+}
+.custom_previcon{
+    background-color: #8c8c8c;
+    
+}
+.custom_pic img{
+    width: 100px;
+}
+
+.custom_nav a{
+    font-weight: bold;
+    text-align: center;
+}
